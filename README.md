@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khajabasha Shaik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right"  alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 <img align="right" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khajabasha7&label=Profile%20views&color=0e75b6&style=flat" alt="khajabasha7" /> </p>
@@ -24,3 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khajabasha7&" alt="khajabasha7" /></p>
 
+<h3>
+  Quote Of The Day
+</h3>
+<img  alt="Coding" width="400" src="https://i.pinimg.com/736x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
